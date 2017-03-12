@@ -1,0 +1,17 @@
+{
+  "name": "timestamp-microservice",
+  "version": "0.0.0",
+  "description": "FreeCodeCamp's Timestamp Microservice Project",
+  "main": "server.js",
+  "author": "Matthew Mack <mm@matthewmack.com.au>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^3.2.6",
+    "useragent": "^2.1.12"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
